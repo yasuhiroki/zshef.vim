@@ -21,5 +21,5 @@ repo = 'yasuhiroki/zshef.vim'
 
 # License
 
-MIT
+[MIT](./LICENSE)
 
